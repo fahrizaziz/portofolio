@@ -65,7 +65,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Fahriz Aziz.</span> I'm a{" "}
         <span className="font-bold">Mobile and Back-end developer</span> with{" "}
-        <span className="font-bold">2 years</span> of experience. I enjoy
+        <span className="font-bold">3 years</span> of experience. I enjoy
         building <span className="italic">apps</span>. My focus is{" "}
         <span className="underline">Flutter</span>.
       </motion.h1>
